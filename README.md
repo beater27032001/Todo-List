@@ -6,6 +6,12 @@
 
 Este é um aplicativo de lista de tarefas (To-Do List) simples, criado com React e Vite, e estilizado com CSS. Ele permite que você adicione e remova tarefas.
 
+## Acesse o Site
+
+Você também pode acessar o aplicativo online através do link abaixo:
+
+[To-Do List - Versão Online](https://todo-list-iota-ebon.vercel.app)
+
 ## Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
